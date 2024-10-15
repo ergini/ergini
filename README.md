@@ -31,7 +31,6 @@ I'm always open to discussing AI, web development, or potential collaborations! 
 
 - **Website**: [ergini.com](https://ergini.com)
 - **LinkedIn**: [linkedin.com/in/ergini](https://linkedin.com/in/ergini)
-- **GitHub**: [github.com/ergini] (your actual GitHub link here)
 
 Let's create something incredible together! 🚀
 
