@@ -1,6 +1,6 @@
-# Hey there! 👋 I'm Ergin
+# Ergin here
 
-I'm a **Software Developer** with 4 years of experience working with modern web technologies, backend development, and building **AI applications** for various niches. I'm passionate about leveraging AI to create solutions that drive productivity, creativity, and automation.
+A **Software Developer** with 4 years of experience working with modern web technologies, backend development, and building **AI applications** for various niches. I'm passionate about leveraging AI & web apps to create solutions that solve people's problems.
 
 ## 🔧 Technologies & Tools I Work With
 
@@ -8,31 +8,25 @@ I'm a **Software Developer** with 4 years of experience working with modern web 
 - **React.js** & **Next.js**: Crafting dynamic user interfaces and server-rendered apps.
 - **Prisma ORM** & **PostgreSQL**: Efficient data management and querying for my backends.
 - **Supabase**: Powering real-time databases and authentication in my projects.
-- **AI & Machine Learning**: Integrating intelligence into apps using AI frameworks and APIs like OpenAI.
-
-## 🚀 Projects I'm Proud Of
-
-- **Xandidate**: An AI-powered candidate evaluation tool that helps recruiters assess candidates efficiently.
-- **AllIn AI**: A versatile AI app enabling users to do everything from conversations to video generation.
-- **Certificate Automation Project**: A confidential automation tool designed to streamline certification processes.
-- **Linkd AI**: An app that generates LinkedIn posts tailored to a user's unique writing style.
-
-## 🌱 Always Learning
-
-I'm always eager to dive deeper into:
-
-- Advanced AI model integrations for real-world applications
-- Building scalable, high-performance systems with **Next.js** and **PostgreSQL**
-- Enhancing user experiences using cutting-edge **AI frameworks**
-
-## 💬 Get In Touch
-
-I'm always open to discussing AI, web development, or potential collaborations! Feel free to connect with me:
+- **AI & Automation**: Integrating intelligence into apps using AI frameworks and APIs like OpenAI.
 
 - **Website**: [ergini.com](https://ergini.com)
 - **LinkedIn**: [linkedin.com/in/ergini](https://linkedin.com/in/ergini)
 
-Let's create something incredible together! 🚀
+<div style="margin-top: '4px';">
+  <h1>
+    Most used languages
+  </h1>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ergini&layout=compact&theme=dark" alt="Most used languages">
+</div>
 
+<div style="margin: '4px 0';">
+  <h1>
+    Time spent coding
+  </h1>
+  <a href="https://wakatime.com/@ergini">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ergini&layout=compact&theme=dark" alt="Coding Activity">
+  </a>
+</div>
 
 [![wakatime](https://wakatime.com/badge/user/018c9c79-8144-4f9d-bff0-e7680fc01037.svg)](https://wakatime.com/@018c9c79-8144-4f9d-bff0-e7680fc01037)
