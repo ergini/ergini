@@ -1,4 +1,4 @@
-# Ergin here
+# I'm Ergin
 
 A **Software Developer** with 4 years of experience working with modern web technologies, backend development, and building **AI applications** for various niches. I'm passionate about leveraging AI & web apps to create solutions that solve people's problems.
 
