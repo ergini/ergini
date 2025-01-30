@@ -8,7 +8,7 @@ A **Software Developer** with 4 years of experience working with modern web tech
 - **React.js** & **Next.js**: Crafting dynamic user interfaces and server-rendered apps.
 - **Prisma ORM** & **PostgreSQL**: Efficient data management and querying for my backends.
 - **Supabase & Authjs**: Powering databases and authentication in my projects.
-- **AI & Automation**: Integrating intelligence into apps using AI frameworks and APIs like OpenAI.
+- **AI & Automation**: Integrating intelligence into apps using AI models and APIs like OpenAI.
 
 - **Website**: [ergini.com](https://ergini.com)
 - **LinkedIn**: [linkedin.com/in/ergini](https://linkedin.com/in/ergini)
