@@ -10,4 +10,4 @@ I'm a software developer with four years of experience, specializing in modern w
 - **Supabase & Auth.js**: I depend on these solutions to power robust databases and secure authentication.
 - **AI & Automation**: I integrate AI models and APIs, like OpenAI, to bring intelligence and automation into my projects.
 
-Feel free to check out my [website](https://ergini.com?ref=github) or connect with me on [LinkedIn](https://linkedin.com/in/ergini).
+Feel free to check out my [website](https://ergini.com), connect with me on [LinkedIn](https://linkedin.com/in/ergini), or drop me an [email](mailto:ergiinnk@gmail.com).
