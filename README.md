@@ -1,6 +1,6 @@
 Hi, I'm Ergini.
 
-I'm a software developer with four years of experience, specializing in modern web technologies, backend development, and creating AI-powered applications tailored to various needs. I love building solutions that genuinely help people by combining smart web apps and innovative AI.
+I'm a software developer with five years of experience, specializing in modern web technologies, backend development, and creating AI-powered applications tailored to various needs. I love building solutions that genuinely help people by combining smart web apps and innovative AI.
 
 ### Tools & Technologies I Use
 
